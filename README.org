@@ -1,0 +1,7 @@
+#+TITLE:Practice for Deep Learning
+
+* Purpose
+Make some example to practice the python coding and concept of Deep Learning. The exmples are all from the book of "Fundamental of Deep Learning".
+
+* MNIST
+In the chapter.2, there is a example of MNIST, just practice to read the data and implement a simple neural network with the code from book.
